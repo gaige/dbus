@@ -1,4 +1,4 @@
-//+build !windows,!solaris,!darwin
+//+build !windows,!darwin
 
 package dbus
 
